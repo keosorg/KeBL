@@ -70,7 +70,7 @@
                                 xq.startsWith('// $KeBL:')
                                 || xq === '// $KeBL'
                             ) {
-                                dz.push(zq)
+                                dz.push(xq)
                             }
                         });
                         if(dz[0] === ('// $KeBL')) {
